@@ -1,5 +1,5 @@
 # Wine_Quality_Prediction
-![Uploading image.png…]()
+![image](https://github.com/Kamal934/Wine_Quality_Prediction/assets/110932441/09ff0ad1-8909-40aa-a93c-5321b2fd62d8)
 
 📊 Table of Contents : main steps for creating a project in ml
 
